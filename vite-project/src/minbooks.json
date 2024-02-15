@@ -1,0 +1,100 @@
+[
+    {"id": 1, "title": "Responsive Design with Bootstrap", "author": "Alex Johnson", "category": "UX", "price": 150, 
+     "description": "This book explores the fundamentals of responsive web design with Bootstrap, demonstrating how to create websites that adapt seamlessly across various screen sizes. Learn to utilize Bootstrap's grid system, components, and utilities to develop responsive, mobile-first web pages."},
+    {"id": 2, "title": "HTML - An Introduction", "author": "Samira Lee", "category": "HTML", "price": 120, 
+     "description": "Dive into the world of HTML, the foundation of web development. This guide covers the basics, from structure and semantics to forms and media. Understand how to use HTML5 to create accessible and efficient web pages."},
+    {"id": 3, "title": "CSS - An Introduction", "author": "Chris Wong", "category": "CSS", "price": 130, 
+     "description": "Unlock the potential of CSS for styling websites. From the box model and layout techniques like Flexbox and Grid to transitions and animations, this book provides a thorough introduction to making your websites look great."},
+    {"id": 4, "title": "JavaScript - An Introduction", "author": "Morgan Avery", "category": "JavaScript", "price": 140, 
+     "description": "JavaScript powers the dynamic aspects of web pages, offering endless possibilities. Learn the core concepts, including variables, functions, and DOM manipulation, to interactive and dynamic web applications."},
+    {"id": 5, "title": "Mastering React", "author": "Jamie Knox", "category": "React", "price": 160, 
+     "description": "React has revolutionized front-end development. This book guides you through building scalable and maintainable web apps using React, covering hooks, context, and Redux for state management."},
+    {"id": 6, "title": "Advanced CSS Techniques", "author": "Lee Yan", "category": "CSS", "price": 135, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+    {"id": 7, "title": "The Road to learn React", "author": "Robin Wieruch", "category": "React", "price": 145, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+    {"id": 8, "title": "Understanding TypeScript", "author": "Maximilian Schwarzmüller", "category": "TypeScript", "price": 150, 
+     "description": "TypeScript offers typing capabilities to JavaScript, enhancing code quality and understandability. This book covers from basic types to advanced concepts like generics and decorators, providing a solid foundation."},
+    {"id": 9, "title": "Pro HTML5", "author": "Adam Freeman", "category": "HTML", "price": 125, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+    {"id": 10, "title": "CSS Secrets", "author": "Lea Verou", "category": "CSS", "price": 140, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+    {"id": 11, "title": "You Don't Know JS", "author": "Kyle Simpson", "category": "JavaScript", "price": 130, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+    {"id": 12, "title": "Eloquent JavaScript", "author": "Marijn Haverbeke", "category": "JavaScript", "price": 145, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+    {"id": 13, "title": "UX Design Principles", "author": "Jane Doe", "category": "UX", "price": 155, "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
+    {
+        "id": 14,
+        "title": "Responsive Design with Bootstrap",
+        "author": "Alex Johnson",
+        "description": "Explore the fundamentals of responsive design with Bootstrap. This book guides you through using Bootstrap's grid system and responsive utilities to create websites that look great on any device.",
+        "category": "UX",
+        "price": 150
+    },
+    {
+        "id": 15,
+        "title": "HTML - An Introduction",
+        "author": "Samira Lee",
+        "description": "Begin your journey into web development with a solid foundation in HTML. Learn how to structure web pages and include elements such as text, images, and forms.",
+        "category": "HTML",
+        "price": 120
+    },
+    {
+        "id": 16,
+        "title": "CSS - An Introduction",
+        "author": "Chris Wong",
+        "description": "Unlock the power of CSS to style your web pages. From basic selectors to advanced layouts with Flexbox and Grid, this book covers it all.",
+        "category": "CSS",
+        "price": 130
+    },
+    {
+        "id": 17,
+        "title": "JavaScript - An Introduction",
+        "author": "Morgan Avery",
+        "description": "Dive into JavaScript to add interactivity to your websites. Learn about variables, functions, events, and more to create dynamic web applications.",
+        "category": "JavaScript",
+        "price": 140
+    },
+    {
+        "id": 18,
+        "title": "Mastering React",
+        "author": "Jamie York",
+        "description": "Take your front-end development skills to the next level with React. Build efficient and scalable web applications with this popular JavaScript library.",
+        "category": "React",
+        "price": 145
+    },
+    {
+        "id": 19,
+        "title": "Advanced CSS Techniques",
+        "author": "Ariana Grande",
+        "description": "Explore advanced CSS techniques for sophisticated web design. Learn about animations, transitions, and how to create responsive designs without frameworks.",
+        "category": "CSS",
+        "price": 150
+    },
+    {
+        "id": 20,
+        "title": "Deep Dive into HTML5",
+        "author": "Liam Smith",
+        "description": "HTML5 brings a wealth of new features to web developers. Discover how to use semantic tags, multimedia elements, and the Canvas API to create rich web experiences.",
+        "category": "HTML",
+        "price": 155
+    },
+    {
+        "id": 21,
+        "title": "Building User Interfaces with React",
+        "author": "Sophia Loren",
+        "description": "React makes it effortless to build declarative user interfaces. This book covers React fundamentals, component architecture, and state management for building interactive UIs.",
+        "category": "React",
+        "price": 160
+    },
+    {
+        "id": 22,
+        "title": "The Comprehensive Guide to UX Design",
+        "author": "Zoe Kim",
+        "description": "UX design is key to making web applications user-friendly. Learn about design principles, user research, and usability testing to create intuitive and engaging websites.",
+        "category": "UX",
+        "price": 165
+    },
+    {
+        "id": 23,
+        "title": "Introduction to TypeScript",
+        "author": "Evan Wallace",
+        "description": "TypeScript offers typing capabilities to JavaScript, enhancing code quality and readability. Learn how to use TypeScript in your projects for better development experience.",
+        "category": "TypeScript",
+        "price": 170
+    }]
